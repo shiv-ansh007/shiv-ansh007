@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img alt="coding" align="center"width="700" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdz5zHqYrLeEVnV0_-EZNNmULYg3EwIqDaeQ&s">
+<img alt="coding" align="center" width="700" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdz5zHqYrLeEVnV0_-EZNNmULYg3EwIqDaeQ&s">
  <img src="https://komarev.com/ghpvc/?username=shiv-ansh007&label=Profile%20views&color=0e75b6&style=flat" alt="shiv-ansh007" />  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv-ansh007" alt="shiv-ansh007" /></a> </p>
