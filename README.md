@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img alt="coding" align="center" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdz5zHqYrLeEVnV0_-EZNNmULYg3EwIqDaeQ&s">
  <img src="https://komarev.com/ghpvc/?username=shiv-ansh007&label=Profile%20views&color=0e75b6&style=flat" alt="shiv-ansh007" />  
 
